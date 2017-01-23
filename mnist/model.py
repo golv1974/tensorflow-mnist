@@ -1,5 +1,5 @@
 import tensorflow as tf
-from keras.models import Sequential
+
 
 # Softmax Regression Model
 def regression(x):
