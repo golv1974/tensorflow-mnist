@@ -1,5 +1,7 @@
 import tensorflow as tf
-import numpy
+from keras import backend as K
+from keras.models import Sequential
+from keras.layers import Dense
 
 # Softmax Regression Model
 def regression(x):
