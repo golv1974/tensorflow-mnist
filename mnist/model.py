@@ -1,5 +1,5 @@
 import tensorflow as tf
-
+import numpy
 
 # Softmax Regression Model
 def regression(x):
